@@ -70,8 +70,8 @@
 
             Console.WriteLine($"{newName} added at index {arrayIndex}");
         }
-    
-       /* public void display()
+
+        public void display()
         {
             for (int i = 0; i < Names.Length; i++)
             {
@@ -84,7 +84,7 @@
                 }
                 Console.WriteLine("null");
             }
-        }*/
+        }
 
     }
 }

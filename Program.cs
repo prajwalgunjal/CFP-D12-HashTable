@@ -11,12 +11,12 @@ namespace CustHashTable
             hashTable.add("Alice");
             hashTable.add("Bob");
             hashTable.add("Charlie");
-/*
+
             hashTable.display();
 
             
 
-            hashTable.search("Bob");*/
+           // hashTable.search("Bob");
         }
     }
 }
