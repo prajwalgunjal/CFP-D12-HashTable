@@ -14,9 +14,7 @@ namespace CustHashTable
 
             hashTable.display();
 
-            
-
-           // hashTable.search("Bob");
+            hashTable.search("Bob");
         }
     }
 }

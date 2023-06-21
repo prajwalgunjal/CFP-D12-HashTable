@@ -21,7 +21,7 @@
             return sumoAsciCode;
         }
 
-        /*public void search(string someName)
+        public void search(string someName)
         {
             int arrayIndex = Math.Abs(CustomeHashFunction(someName)) % Names.Length;
             Node temp = Names[arrayIndex];
@@ -48,7 +48,7 @@
             {
                 Console.WriteLine($"{someName} is not found in the hash table.");
             }
-        }*/
+        }
         public void add(string newName)
         {
             int arrayIndex = Math.Abs(CustomeHashFunction(newName)) % Names.Length;
